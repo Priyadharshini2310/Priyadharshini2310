@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Dharshini Vijayakumar  
 
-<!--
-**Priyadharshini2310/Priyadharshini2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full-Stack Developer  
 
-Here are some ideas to get you started:
+Passionate about building scalable and user-friendly applications. I specialize in:  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚛ **React.js** & **Next.js** – Frontend development with modern frameworks  
+- 🛢 **MongoDB** & **PostgreSQL** – Database management and optimization  
+- 💡 Constantly learning and exploring new technologies  
+
+### 📲 Connect with me  
+📷 Instagram: [@dharshini_vijayakumar2313](https://www.instagram.com/dharshini_vijayakumar2313/)  
+
+Let's build something amazing together! 🚀  
