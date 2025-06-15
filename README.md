@@ -1,7 +1,7 @@
 # 💫 About Me:
-👋 Hi, I'm Dharshini Vijayakumar<br>🚀 Co-Founder | Full-Stack Developer | Tech Innovator<br>The Co-Founder of InfoSphere IT Solutions, a dynamic company committed to delivering cutting-edge IT solutions that drive innovation and efficiency. With a passion for technology<br>At InfoSphere IT Solutions, we strive to create transformative digital experiences, helping businesses stay ahead in the fast-paced tech world.<br><br>I specialize in:<br><br>⚛ React.js & Next.js – Crafting seamless, high-performance web applications<br>🛢 MongoDB & PostgreSQL – Optimizing databases for scalability and reliability<br>💡 Continuous Learning – Always exploring the latest advancements in tech<br>🌍 Building the Future of IT<br>><br>📲 Connect with Me<br>📷 Instagram: @dharshini_vijayakumar2313<br><br>Let’s collaborate and build something extraordinary! 🚀
+👋 Hi, I'm Dharshini Vijayakumar<br>🚀 Co-Founder | Full-Stack Developer | Tech Innovator<br>The Co-Founder of InfoSphere IT Solutions, a dynamic company committed to delivering cutting-edge IT solutions that drive innovation and efficiency. With a passion for technology<br>At InfoSphere IT Solutions, we strive to create transformative digital experiences, helping businesses stay ahead in the fast-paced tech world.## My Portfolio - https://priyadharshini-one.vercel.app/<br><br>I specialize in:<br><br>⚛ React.js & Next.js – Crafting seamless, high-performance web applications<br>🛢 MongoDB & PostgreSQL – Optimizing databases for scalability and reliability<br>💡 Continuous Learning – Always exploring the latest advancements in tech<br>🌍 Building the Future of IT<br>><br>📲 Connect with Me<br>📷 Instagram: @dharshini_vijayakumar2313<br><br>Let’s collaborate and build something extraordinary! 🚀
 
-##My Portfolio - https://priyadharshini-one.vercel.app/
+
 
 
 ## 🌐 Socials:
